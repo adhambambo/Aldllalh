@@ -1,0 +1,120 @@
+{
+  "project_info": {
+    "project_number": "965866791903",
+    "project_id": "eldalala-2d156",
+    "storage_bucket": "eldalala-2d156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965866791903:android:783490d02008cf42a61a6a",
+        "android_client_info": {
+          "package_name": "com.aldllalh.eldalala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965866791903-hg06d8fbdid1cdq7oflmpddf9jmpskli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aldllalh.eldalala",
+            "certificate_hash": "28c8ffae1119f266340d953f8fecb1d02ce17d78"
+          }
+        },
+        {
+          "client_id": "965866791903-n80j290cnuuk2t0bnje59g26g2ohucp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aldllalh.eldalala",
+            "certificate_hash": "e9b5db404a25bdf3ee6d895ea4cd03f151e6b6c1"
+          }
+        },
+        {
+          "client_id": "965866791903-jlvq7drrp3i0clo93fb9cipr0bn6t4c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuG2wyzSl3VYONHXSu5ZGYcpoBQlRC_7s"
+        },
+        {
+          "current_key": "AIzaSyDEDQY5pevomHZQAagS0wU_8ycdRWNsLXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965866791903-jlvq7drrp3i0clo93fb9cipr0bn6t4c9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "965866791903-43jsjeuj3nu3964j04o0hab6mcf6509m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eldalala"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965866791903:android:9d5e530e17abf8f1a61a6a",
+        "android_client_info": {
+          "package_name": "com.example.eldalala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965866791903-2p4fioomajrqtgdge5i59no5d3qov848.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eldalala",
+            "certificate_hash": "28c8ffae1119f266340d953f8fecb1d02ce17d78"
+          }
+        },
+        {
+          "client_id": "965866791903-aberiap2nneqn5k1arask0gn7u627vfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eldalala",
+            "certificate_hash": "e9b5db404a25bdf3ee6d895ea4cd03f151e6b6c1"
+          }
+        },
+        {
+          "client_id": "965866791903-jlvq7drrp3i0clo93fb9cipr0bn6t4c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuG2wyzSl3VYONHXSu5ZGYcpoBQlRC_7s"
+        },
+        {
+          "current_key": "AIzaSyDEDQY5pevomHZQAagS0wU_8ycdRWNsLXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965866791903-jlvq7drrp3i0clo93fb9cipr0bn6t4c9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "965866791903-43jsjeuj3nu3964j04o0hab6mcf6509m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eldalala"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
